@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Abhishek !
 
-## 🚀 Data Analyst focusing on applied statistics
+## 🚀 Data Analyst focused on applied statistics
 
 ### 💼 Technical Skills
 
